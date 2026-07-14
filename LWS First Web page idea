@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> My First Page </title>
+    </head>
+    <body>
+        <h1>Hello,web!</h1>
+        <h2>LWS Creations</h2>
+        <h3>Welcome to my Page</h3>
+        <p>This is my first web page!</p>
+    </body>
+    <main>
+        <section>
+            <h2>Content</h2>
+            <p>This is the main content area.</p>
+        </section>
+        <img src="https://pyramidbooks.com/list/black-comics-graphic-novel" alt="Black Comics Graphic Novels" width="300" height="200">
+    </main>
+    <nav>
+        >
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+    <ul>Ideas for my page:
+        <li>Coloring Books</li>
+        <li>Drawing Books</li>
+        <li>Comic Books</li>
+    </ul>
+    </html>
+    <footer>
+        <p>&copy; 2026 LWS Creations. All rights reserved.</p>
+    </footer>
+    
+</html>
