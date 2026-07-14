@@ -13,17 +13,15 @@
         <section>
             <h2>Content</h2>
             <p>This is the main content area.</p>
-        </section>
-        <img src="https://pyramidbooks.com/list/black-comics-graphic-novel" alt="Black Comics Graphic Novels" width="300" height="200">
+        </section> 
+        <h3>Follow Me</h3>
+        <article>
+        <image src="https://blerd.com/black-superheroes-you-should-know-going-into-2024/?srsltid=AfmBOopLzbrqiV3FaKVgttVgHHCfj-Ikr7v5R66sqo7cia8wG5dYJD9d"
+        alt="Four Black DC Comic Book Characters"></image>
     </main>
-    <nav>
-        >
-            <li><a href="#home">Home</a></li>
-            <li><a href="#about">About</a></li>
-            <li><a href="#contact">Contact</a></li>
         </ul>
     </nav>
-    <ul>Ideas for my page:
+    <ul>Ideas for my
         <li>Coloring Books</li>
         <li>Drawing Books</li>
         <li>Comic Books</li>
