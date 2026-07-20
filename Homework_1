@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Hello World</title>
+</head>
+
+<body>
+
+    <header>
+        <h1>Hello World</h1>
+
+        <nav>
+            <a href="index.html">Home</a> |
+            <a href="about.html">About</a> |
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>Welcome</h2>
+            <p>
+                This is my Hello World webpage. It is the home page for my HTML assignment.
+            </p>
+        </section>
+
+        <section>
+            <h2>About This Page</h2>
+
+            <article>
+                <h3>Purpose</h3>
+                <p>
+                    This page demonstrates the basic structure of an HTML document using semantic elements.
+                </p>
+            </article>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 My Website</p>
+    </footer>
+
+</body>
+
+</html>

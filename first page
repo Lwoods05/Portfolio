@@ -7,4 +7,37 @@
         <h1>Hello,web!</h1>
         <p>This is my first web page!</p>
     </body>
+    <!DOCTYPE html>
+<html>
+<head>
+<title>
+    LWS Creations
+</title>
+</head>
+<body>
+    <header>
+        <h1>
+            Collections of my projects!.
+        </h1>
+    </header>
+
+    <main>
+        <img src="https://www.listchallenges.com/f/lists/a9619548-6614-456a-9a85-2185cc5c08e6.jpg" alt="Black Super Heroes" height="300" />
+        <sections>
+            <h2>
+                My projects
+                <p>
+                    My First Coloring Book
+                </p>
+                <p>My first Comic Book</p>
+            </h2>
+            <h3> List of </h3>
+            <ul>
+                <li>My First Coloring Book</li>
+                <li>My first Comic Book</li>
+        </sections>
+    </main>
+</body>
+
+</html>
 </html>
