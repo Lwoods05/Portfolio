@@ -1,0 +1,51 @@
+/* style.css - cleaned and valid CSS
+   Converted from mixed HTML/CSS to proper stylesheet
+*/
+
+/* Base */
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #fff;
+    color: #333;
+}
+
+/* Header/title */
+h1 {
+    color: lightgray;
+    font-size: 2em;
+    text-align: center;
+    margin-top: 20px;
+}
+.tagline {
+    text-align: center;
+    color: #666;
+    margin-bottom: 1rem;
+}
+
+/* Container and boxes */
+.container {
+    box-sizing: border-box;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+}
+.box {
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 20px 0;
+    background: #fafafa;
+}
+
+/* Image styling */
+img.responsive {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+/* Utility */
+ul { padding-left: 1.25rem; }

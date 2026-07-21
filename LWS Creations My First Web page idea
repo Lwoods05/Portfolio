@@ -4,14 +4,41 @@
 <title>
     LWS Creations
 </title>
+<link rel="stylesheet" href="style.css">
+h1 {
+    color: #lightgray;
+    font-size: 2em;
+    text-align: center;
+    margin-top: 20px;
+}
 </head>
 <body>
     <header>
         <h1>
             Collections of my projects!.
         </h1>
+        <p class="tagline">
+            Welcome to LWS Creations!
+        </p>
+<div class="Container">
+    <div class="Box" id="Box Box-one">
+        <h2>Box one</h2>
+    <p>This is the content for Box one.</p> 
+</div>
     </header>
 
+    <main> 
+    </header>
+body 
+    font-family: Arial, sans-serif;
+
+.box-container 1{
+    content: "Box one";
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 20px;
+}
     <main>
         <img src="https://www.listchallenges.com/f/lists/a9619548-6614-456a-9a85-2185cc5c08e6.jpg" alt="Black Super Heroes" height="300" />
         <sections>
